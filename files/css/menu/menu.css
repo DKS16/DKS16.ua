@@ -1,0 +1,25 @@
+#menu{
+	width:100%;
+	background:#191970;
+	display:table;
+	position:fixed;
+	top:0;
+	left:0;
+}
+#menu li{
+	display:block;
+	float:left;
+}
+#menu li a{
+	display:table;
+	padding:10px;
+	text-align:left;
+	color:white;
+	font-family: 'Istok Web', sans-serif;
+	text-decoration:none;
+}
+#menu li:hover{
+	background:#6495ED;
+	transition:0.2s ease-out;
+}
+}
